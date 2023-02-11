@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Edward-1989
+- 👋 Hi, I’m @Edward_Qin
 - 👀 I’m interested in Cyber Security, Image Registration and Optimization
 - 🌱 I’m currently learning Blockchain
 - 💞️ I’m looking to collaborate on Internet of Vehicles
